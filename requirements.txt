@@ -2,5 +2,5 @@
 # Install with: pip install -r requirements.txt
 
 pyrealsense2>=2.56.0
-opencv-contrib-python>=4.7.0
+opencv-contrib-python>=5.0.0
 numpy>=1.23.0
