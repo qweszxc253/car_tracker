@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Recorded data — large binaries (rosbags, videos, telemetry CSVs)
+recordings/
+
+# OS / editor cruft
+.DS_Store
+*.swp
